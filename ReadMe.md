@@ -16,7 +16,7 @@ This project is a Python-based quiz program that allows users to take quizzes on
 - User-friendly interface for answering questions.
 - Provide immediate feedback on user responses.
 - Calculate and display the final score.
-- [Add any other features specific to your project]
+
 
 ## Requirements
 
