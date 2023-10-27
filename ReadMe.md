@@ -20,9 +20,10 @@ This project is a Python-based quiz program that allows users to take quizzes on
 
 ## Requirements
 
-List down the requirements and dependencies needed to run the project. For example:
 
-- Python 3.x
+
+- Python 3.x version
+- 
 
 
 
